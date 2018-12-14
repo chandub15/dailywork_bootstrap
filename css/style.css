@@ -41,6 +41,15 @@ nav{
     margin:auto;
     padding-top:80px;
 }
+.card-deck{
+    margin-left: 2%;
+    margin-right:2%
+}
+
+.card-img-top{
+    width: 100%;
+    height: 100%;
+}
 .fa {
   padding: 10px;
   font-size: 30px;
@@ -103,9 +112,24 @@ aside{
   padding : 5px 15px;
 }
 
+iframe{
+width:50%;
+height:50%;
+frameborder:0;
+border:0;
+margin-left:25%;
+
+}
 footer{
   margin-right: 0%;
   padding-left: 40%;
   background-color: white;
   float:right;
+}
+
+i{
+    margin-right:20px;
+    float:right;
+    font-size: 20px;
+    padding-right:0px;
 }
